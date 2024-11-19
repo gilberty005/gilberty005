@@ -1,4 +1,4 @@
-## Hi there 👋
+###Hi! I'm a sophomore at Columbia University. I'm currently interested in natural language processing and algorithmic machine learning. I have been lucky enough to work on some cool stuff :) 
 
 <!--
 **gilberty005/gilberty005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
