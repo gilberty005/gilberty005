@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a sophomore at Columbia University. I'm currently interested in natural language processing and algorithmic machine learning. I've had the opportunity to work on some cool projects with even cooler people :) 
+I'm a sophomore at Columbia University. I'm currently interested in natural language processing and algorithmic machine learning. I've had the opportunity to work on some cool projects with some even cooler people :) 
 
 <!--
 **gilberty005/gilberty005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
