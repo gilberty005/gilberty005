@@ -1,6 +1,8 @@
 ## Hi there! 👋
 
-I'm a sophomore at Columbia University. I'm currently interested in natural language processing and algorithmic machine learning.
+I'm a sophomore at Columbia University. I'm currently interested in natural language processing and algorithmic machine learning. 
+
+Currently, I'm working on two main projects. At the AlQuraishi Lab, I'm working on enhancing the interpretability of genomic language models. At Columbia's Business School, I'm starting work on data mixtures. 
 
 <!--
 **gilberty005/gilberty005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
